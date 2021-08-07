@@ -1,10 +1,10 @@
-[**](https://web.dio.me/labs)
+[**](https://web.dio.me/labs)         <br>     
 
 ##### Otimizando API para produção e implementando autenticação via JWT em Java no projeto do clone PicPay
 
-[**](https://hermes.digitalinnovation.one/lab_projects/files/5350ca0f-2bc8-4c26-a24a-511bfae38d63.zip)
+[**](https://hermes.digitalinnovation.one/lab_projects/files/5350ca0f-2bc8-4c26-a24a-511bfae38d63.zip)         <br>     
 
-[**](https://web.dio.me/lab/otimizando-api-para-producao-e-implementando-autenticacao-via-jwt-em-java-no-projeto-do-clone-picpay/learning/f68fae92-b041-49b3-83c4-a8052856ac6c)[**](https://web.dio.me/lab/otimizando-api-para-producao-e-implementando-autenticacao-via-jwt-em-java-no-projeto-do-clone-picpay/learning/4fe18cb7-6c45-4500-920e-8bebcbc6b3b7)
+[**](https://web.dio.me/lab/otimizando-api-para-producao-e-implementando-autenticacao-via-jwt-em-java-no-projeto-do-clone-picpay/learning/f68fae92-b041-49b3-83c4-a8052856ac6c)         <br>     [**](https://web.dio.me/lab/otimizando-api-para-producao-e-implementando-autenticacao-via-jwt-em-java-no-projeto-do-clone-picpay/learning/4fe18cb7-6c45-4500-920e-8bebcbc6b3b7)         <br>     
 
 
 
@@ -13,9 +13,20 @@
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Parte 1](https://web.dio.me/lab/otimizando-api-para-producao-e-implementando-autenticacao-via-jwt-em-java-no-projeto-do-clone-picpay/learning/f68fae92-b041-49b3-83c4-a8052856ac6c)[Parte 2](https://web.dio.me/lab/otimizando-api-para-producao-e-implementando-autenticacao-via-jwt-em-java-no-projeto-do-clone-picpay/learning/4fe18cb7-6c45-4500-920e-8bebcbc6b3b7)[Parte 3](https://web.dio.me/lab/otimizando-api-para-producao-e-implementando-autenticacao-via-jwt-em-java-no-projeto-do-clone-picpay/learning/8fabcd3b-dfd3-4bb1-9ca8-389e6a720d57)[Parte 4](https://web.dio.me/lab/otimizando-api-para-producao-e-implementando-autenticacao-via-jwt-em-java-no-projeto-do-clone-picpay/learning/d679fecc-a11b-4621-8912-b16ac31f6325)[Parte 5](https://web.dio.me/lab/otimizando-api-para-producao-e-implementando-autenticacao-via-jwt-em-java-no-projeto-do-clone-picpay/learning/380370cb-ee39-49ad-806a-06e91f2fc66b)[Parte 6](https://web.dio.me/lab/otimizando-api-para-producao-e-implementando-autenticacao-via-jwt-em-java-no-projeto-do-clone-picpay/learning/ac4cd0ca-336d-4eae-a7ab-ceab90612ba8)[Parte 7](https://web.dio.me/lab/otimizando-api-para-producao-e-implementando-autenticacao-via-jwt-em-java-no-projeto-do-clone-picpay/learning/9d57b16e-ba4d-4a03-a297-ec3461b277b6)[Parte 8](https://web.dio.me/lab/otimizando-api-para-producao-e-implementando-autenticacao-via-jwt-em-java-no-projeto-do-clone-picpay/learning/677bed45-d6fc-425d-b9a5-18aa30622e3d)[Parte 9](https://web.dio.me/lab/otimizando-api-para-producao-e-implementando-autenticacao-via-jwt-em-java-no-projeto-do-clone-picpay/learning/d30747ec-46bb-48ab-aa50-2366397665d5)[Parte 10](https://web.dio.me/lab/otimizando-api-para-producao-e-implementando-autenticacao-via-jwt-em-java-no-projeto-do-clone-picpay/learning/b206c3ba-a1eb-4efe-a8e7-07b74e3adf2c)[Parte 11](https://web.dio.me/lab/otimizando-api-para-producao-e-implementando-autenticacao-via-jwt-em-java-no-projeto-do-clone-picpay/learning/f5746ee4-483b-40be-9d53-dfb46b885eb7)[Parte 12](https://web.dio.me/lab/otimizando-api-para-producao-e-implementando-autenticacao-via-jwt-em-java-no-projeto-do-clone-picpay/learning/61c28ae0-d502-4cbe-96bf-d9de3994ed28)[Parte 13](https://web.dio.me/lab/otimizando-api-para-producao-e-implementando-autenticacao-via-jwt-em-java-no-projeto-do-clone-picpay/learning/ebdc0a92-6f9e-4eed-82c7-e47a682c06d8)[Parte 14](https://web.dio.me/lab/otimizando-api-para-producao-e-implementando-autenticacao-via-jwt-em-java-no-projeto-do-clone-picpay/learning/4bc5b0b0-8dd4-46a6-bc0f-c01f55e44283)
-
-
+- [Parte 1](https://web.dio.me/lab/otimizando-api-para-producao-e-implementando-autenticacao-via-jwt-em-java-no-projeto-do-clone-picpay/learning/f68fae92-b041-49b3-83c4-a8052856ac6c)         <br>    
+- [Parte 2](https://web.dio.me/lab/otimizando-api-para-producao-e-implementando-autenticacao-via-jwt-em-java-no-projeto-do-clone-picpay/learning/4fe18cb7-6c45-4500-920e-8bebcbc6b3b7)         <br>    
+- [Parte 3](https://web.dio.me/lab/otimizando-api-para-producao-e-implementando-autenticacao-via-jwt-em-java-no-projeto-do-clone-picpay/learning/8fabcd3b-dfd3-4bb1-9ca8-389e6a720d57)         <br>    
+- [Parte 4](https://web.dio.me/lab/otimizando-api-para-producao-e-implementando-autenticacao-via-jwt-em-java-no-projeto-do-clone-picpay/learning/d679fecc-a11b-4621-8912-b16ac31f6325)         <br>   
+- [Parte 5](https://web.dio.me/lab/otimizando-api-para-producao-e-implementando-autenticacao-via-jwt-em-java-no-projeto-do-clone-picpay/learning/380370cb-ee39-49ad-806a-06e91f2fc66b)         <br>    
+- [Parte 6](https://web.dio.me/lab/otimizando-api-para-producao-e-implementando-autenticacao-via-jwt-em-java-no-projeto-do-clone-picpay/learning/ac4cd0ca-336d-4eae-a7ab-ceab90612ba8)         <br>    
+- [Parte 7](https://web.dio.me/lab/otimizando-api-para-producao-e-implementando-autenticacao-via-jwt-em-java-no-projeto-do-clone-picpay/learning/9d57b16e-ba4d-4a03-a297-ec3461b277b6)         <br>    
+- [Parte 8](https://web.dio.me/lab/otimizando-api-para-producao-e-implementando-autenticacao-via-jwt-em-java-no-projeto-do-clone-picpay/learning/677bed45-d6fc-425d-b9a5-18aa30622e3d)         <br>    
+- [Parte 9](https://web.dio.me/lab/otimizando-api-para-producao-e-implementando-autenticacao-via-jwt-em-java-no-projeto-do-clone-picpay/learning/d30747ec-46bb-48ab-aa50-2366397665d5)         <br>   
+- [Parte 10](https://web.dio.me/lab/otimizando-api-para-producao-e-implementando-autenticacao-via-jwt-em-java-no-projeto-do-clone-picpay/learning/b206c3ba-a1eb-4efe-a8e7-07b74e3adf2c)         <br>   
+- [Parte 11](https://web.dio.me/lab/otimizando-api-para-producao-e-implementando-autenticacao-via-jwt-em-java-no-projeto-do-clone-picpay/learning/f5746ee4-483b-40be-9d53-dfb46b885eb7)         <br>   
+- [Parte 12](https://web.dio.me/lab/otimizando-api-para-producao-e-implementando-autenticacao-via-jwt-em-java-no-projeto-do-clone-picpay/learning/61c28ae0-d502-4cbe-96bf-d9de3994ed28)         <br>    
+- [Parte 13](https://web.dio.me/lab/otimizando-api-para-producao-e-implementando-autenticacao-via-jwt-em-java-no-projeto-do-clone-picpay/learning/ebdc0a92-6f9e-4eed-82c7-e47a682c06d8)         <br>    
+- [Parte 14](https://web.dio.me/lab/otimizando-api-para-producao-e-implementando-autenticacao-via-jwt-em-java-no-projeto-do-clone-picpay/learning/4bc5b0b0-8dd4-46a6-bc0f-c01f55e44283)         <br>     
 
 ###### DESCRIÇÃO
 
@@ -33,8 +44,8 @@ Neste projeto vamos dar continuidade ao desenvolvimento do clone do aplicativo P
 
 ###### ESPECIALISTA
 
-![author](https://hermes.digitalinnovation.one/users/author/photos/4c0f15f5-6fec-431f-91c8-5f885526dbbf.png)
+![author](https://hermes.digitalinnovation.one/users/author/photos/4c0f15f5-6fec-431f-91c8-5f885526dbbf.png)         <br>     
 
 ###### Cícero Moura
 
-Engenheiro de Dados, Tecnisys[**](https://www.linkedin.com/in/cicero-moura/)
+Engenheiro de Dados, Tecnisys[**](https://www.linkedin.com/in/cicero-moura/)         <br>     
